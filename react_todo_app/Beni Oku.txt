@@ -1,0 +1,21 @@
+Komut penceresini klasör içinde açınız.
+
+virtual env aktif ediniz.      
+venv\Scripts\activate
+
+python manage.py makemigrations
+python manage.py migrate 
+
+komutlarını giriniz.
+
+Başka bir komut penceresinde
+npm run dev 
+komutunu giriniz.
+
+İlk komut penceresinde 
+
+python manage.py runserver
+
+komutunu girip serverı çalıştırınız.
+
+Kulanıcı kaydı yapıp uygulamayı kullanabilirsiniz.
